@@ -12,8 +12,6 @@
 
 - 💪🏻 Hard Work!
 - 🧠 I love Challenges 
-- 📚 Reading is my therapy
-- 💪🏻 Training is my medicine
 - 🎯 Focused on results
 <!--End Intro-->
 
