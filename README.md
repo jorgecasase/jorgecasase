@@ -79,13 +79,13 @@
 </p>
 
 <div>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/react.svg" alt="react" width="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tensorflowkeras.png" alt="tensorflowkeras.png" width="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/pymongo.png" alt="pymongo.png" width="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/cpp.png" alt="cpp.png" width="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/redis.png" alt="redis" width="100"/>
-   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="c" width="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="java" width="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/react.svg" alt="react" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tensorflowkeras.png" alt="tensorflowkeras.png" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/pymongo.png" alt="pymongo.png" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/cpp.png" alt="cpp.png" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/redis.png" alt="redis" height="100"/>
+   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="c" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="java" height="100"/>
 </div>
 
 ------
