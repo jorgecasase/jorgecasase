@@ -84,6 +84,7 @@
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/pymongo.png" alt="pymongo.png" width="200"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/cpp.png" alt="cpp.png" width="200"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/redis.png" alt="redis" width="200"/>
+   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="redis" width="200"/>
 </div>
 
 ------
