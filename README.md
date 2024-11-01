@@ -19,23 +19,11 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<div>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/react.svg" alt="react" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tensorflowkeras.png" alt="tensorflowkeras.png" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/pymongo.png" alt="pymongo.png" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/u-tad.png" alt="u-tad" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/cpp.png" alt="cpp.png" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/redis.png" alt="redis" height="100"/>
-   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="c" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="java" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/python.png" alt="python" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/aws.png" alt="aws" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/javascript.png" alt="JavaScript" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nodejs.png" alt="nodejs" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/mysql.png" alt="mysql" height="100"/>
-</div>
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,c,cpp,cs,cmake,sklearn,js,html,css,react,nodejs,mongo,git,vscode,docker,aws,linux,anaconda,arduino, &perline=10"  />
+</p>
 <br />
----
 
 
 <!--Github stats Table--> 
@@ -79,7 +67,7 @@
  <a href="https://www.linkedin.com/in/jorgecasase/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  
+
 <a href="mailto:jorgecasase@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=jorgecasase@gmail.com mail style="margin-bottom: 5px;" />
 </a>
@@ -89,5 +77,23 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
+---
+
+<div>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/react.svg" alt="react" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tensorflowkeras.png" alt="tensorflowkeras.png" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/pymongo.png" alt="pymongo.png" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/u-tad.png" alt="u-tad" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/cpp.png" alt="cpp.png" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/redis.png" alt="redis" height="100"/>
+   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="c" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="java" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/python.png" alt="python" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/aws.png" alt="aws" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/javascript.png" alt="JavaScript" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nodejs.png" alt="nodejs" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/mysql.png" alt="mysql" height="100"/>
+</div>
 
 ------
