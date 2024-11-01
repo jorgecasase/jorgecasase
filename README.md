@@ -78,6 +78,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
+---
+
 <div>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/react.svg" alt="react" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tensorflowkeras.png" alt="tensorflowkeras.png" height="100"/>
