@@ -92,6 +92,7 @@
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/python.png" alt="python" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/aws.png" alt="aws" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/javascript.png" alt="JavaScript" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nodejs.png" alt="nodejs" height="100"/>
 </div>
 
 ------
