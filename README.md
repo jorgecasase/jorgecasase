@@ -90,6 +90,7 @@
    <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="c" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="java" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/python.png" alt="python" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/aws.png" alt="aws" height="100"/>
 </div>
 
 ------
