@@ -43,7 +43,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/jorgecasase">
-          <img align="center" src="https://streak-stats.demolab.com?user=jorgecasase&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -87,7 +87,7 @@
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/u-tad.png" alt="u-tad" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/cpp.png" alt="cpp.png" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/redis.png" alt="redis" height="100"/>
-   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="c" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="c" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="java" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/python.png" alt="python" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/aws.png" alt="aws" height="100"/>
