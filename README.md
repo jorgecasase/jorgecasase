@@ -43,7 +43,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/jorgecasase">
-          <img align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com/?user=jorgecasase&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
