@@ -97,6 +97,7 @@
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/next.png" alt="next" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tailwind.png" alt="tailwind" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/vercel.png" alt="vercel" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/huggingface.png" alt="huggingface" height="100"/>
 </div>
 
 ------
