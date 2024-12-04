@@ -100,6 +100,7 @@
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/huggingface.png" alt="huggingface" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/docker.png" alt="docker" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/kubernetes.png" alt="kubernetes" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/neo4j.png" alt="neo4j" height="100"/>
 </div>
 
 ------
