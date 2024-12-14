@@ -8,7 +8,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a software student specialized in data engineering & AI. My favorite programming languages ​​are Java, C/C++ and Python</p>
+<p align="left">I am a software student specialized in data engineering & AI. </p>
 
 - 💪🏻 Hard Work!
 - 🧠 I love Challenges 
