@@ -102,6 +102,7 @@
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/kubernetes.png" alt="kubernetes" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/neo4j.png" alt="neo4j" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/anaconda.png" alt="anaconda" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nltk.png" alt="nltk" height="100"/>
 </div>
 
 ------
