@@ -105,7 +105,7 @@
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nltk.png" alt="nltk" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/express.png" alt="express" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/swagger.png" alt="swagger" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/jest.png" alt="jest" height="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/jest.png" alt="jest" width="30"/>
 </div>
 
 ------
