@@ -106,8 +106,8 @@
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/express.png" alt="express" height="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/swagger.png" alt="swagger" width="200"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/jest.png" alt="jest" height="100" />
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/kotlin.png" alt="kotlin" width="200"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/flutter.png" alt="flutter" width="200"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/kotlin.png" alt="kotlin" width="150"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/flutter.png" alt="flutter" width="150"/>
 </div>
 
 ------
