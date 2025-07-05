@@ -86,15 +86,15 @@
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/pymongo.png" alt="pymongo"  width="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/u-tad.png" alt="u-tad"  width="100" />
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/cpp.png" alt="cpp"  width="100" />
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/redis.png" alt="redis" height="100" />
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="c" height="100" />
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="java" height="100" />
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/python.png" alt="python" height="100" />
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/aws.png" alt="aws" height="100" />
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/javascript.png" alt="javascript" height="100" />
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nodejs.png" alt="nodejs" height="100" />
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/mysql.png" alt="mysql" height="100" />
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/next.png" alt="next" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/redis.png" alt="redis" height="100" width="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="c" height="100" width="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="java" height="100" width="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/python.png" alt="python" height="100" width="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/aws.png" alt="aws" height="100" width="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/javascript.png" alt="javascript" height="100" width="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nodejs.png" alt="nodejs" height="100" width="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/mysql.png" alt="mysql" height="100" width="100"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/next.png" alt="next" height="100" width="100"/>
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tailwind.png" alt="tailwind" height="100" />
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/vercel.png" alt="vercel" height="100" />
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/huggingface.png" alt="huggingface" height="100" />
