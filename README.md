@@ -80,7 +80,7 @@
 
 ---
 <!--SponsorWall-->
-<div align="center">
+<p align="center">
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/react.svg" alt="react" height="100" />
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tensorflowkeras.png" alt="tensorflowkeras" height="100" />
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/pymongo.png" alt="pymongo" height="100" />
@@ -108,6 +108,6 @@
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/jest.png" alt="jest" height="100" />
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/kotlin.png" alt="kotlin" height="100" />
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/flutter.png" alt="flutter" height="100" />
-</div>
+</p>
 
 ------
