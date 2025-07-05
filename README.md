@@ -81,7 +81,7 @@
 ---
 <!--SponsorWall-->
 <p align="center">
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/react.svg" alt="react" height="10" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/react.svg" alt="react" height="10" width="10" />
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tensorflowkeras.png" alt="tensorflowkeras" height="100" />
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/pymongo.png" alt="pymongo" height="100" />
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/u-tad.png" alt="u-tad" height="100" />
