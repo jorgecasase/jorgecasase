@@ -81,33 +81,35 @@
 ---
 <!--SponsorWall-->
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/react.svg" alt="react" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tensorflowkeras.png" alt="tensorflowkeras.png" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/pymongo.png" alt="pymongo.png" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/u-tad.png" alt="u-tad" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/cpp.png" alt="cpp.png" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/redis.png" alt="redis" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="c" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="java" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/python.png" alt="python" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/aws.png" alt="aws" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/javascript.png" alt="JavaScript" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nodejs.png" alt="nodejs" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/mysql.png" alt="mysql" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/next.png" alt="next" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tailwind.png" alt="tailwind" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/vercel.png" alt="vercel" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/huggingface.png" alt="huggingface" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/docker.png" alt="docker" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/kubernetes.png" alt="kubernetes" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/neo4j.png" alt="neo4j" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/anaconda.png" alt="anaconda" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nltk.png" alt="nltk" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/express.png" alt="express" height="100"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/swagger.png" alt="swagger" width="200"/>
+
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/react.svg" alt="react" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tensorflowkeras.png" alt="tensorflowkeras" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/pymongo.png" alt="pymongo" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/u-tad.png" alt="u-tad" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/cpp.png" alt="cpp" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/redis.png" alt="redis" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="c" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="java" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/python.png" alt="python" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/aws.png" alt="aws" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/javascript.png" alt="javascript" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nodejs.png" alt="nodejs" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/mysql.png" alt="mysql" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/next.png" alt="next" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tailwind.png" alt="tailwind" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/vercel.png" alt="vercel" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/huggingface.png" alt="huggingface" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/docker.png" alt="docker" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/kubernetes.png" alt="kubernetes" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/neo4j.png" alt="neo4j" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/anaconda.png" alt="anaconda" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nltk.png" alt="nltk" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/express.png" alt="express" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/swagger.png" alt="swagger" height="100" />
   <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/jest.png" alt="jest" height="100" />
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/kotlin.png" alt="kotlin" width="150"/>
-  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/flutter.png" alt="flutter" width="150"/>
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/kotlin.png" alt="kotlin" height="100" />
+  <img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/flutter.png" alt="flutter" height="100" />
+
 </div>
 
 ------
